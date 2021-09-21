@@ -1,7 +1,6 @@
-### Hi there 👋
 <p>
   <a href="https://twitter.com/nejos97">
-    <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/yopafabrice?style=for-the-badge">
+    <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/nejos97?style=for-the-badge">
   </a>
 </p>
 
