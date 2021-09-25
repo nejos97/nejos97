@@ -12,13 +12,6 @@ Independent Sr. Software Consultant | Co-Founder @ [Mozacoin](https://mozacoin.c
 
 I love technology and best practices. Github is my favourite place, it keeps me up to date with what's going on in the world.
 
-- 🔭 I’m currently working on ...
-
-- 🌱 I’m currently learning ...
-
-- 💬 Ask me about ...
-
-
 ## 👯 Communities
 
 - Speaking about JAMStack, Android Development and Mobile Payment at [GDG Ndere - Cameroon](https://devfest.gdgdouala.com/)
@@ -27,11 +20,11 @@ I love technology and best practices. Github is my favourite place, it keeps me 
 
 Talk to me about
 
-- Front-end development using **React, VanillaJS**
-- Backend development using **Java, PHP, Node JS(Express)**
-- Architectural design for **Relational Database Management Systems** as well as for NoSQL database systems like **MongoDB**
+- Front-end development using **React, NextJS, Gatsby, Angular**
+- Backend development using **C#, Python, NodeJS(Express, NestJS)**
+- Architectural design for **Relational Database Management Systems** as well as for NoSQL database systems like **MongoDB, DynamoDB**
 - Robust full-stack system design implementation
-- Creating scalable cloud architecture using **Amazon AWS, Google Cloud Platform, Digital Ocean**
+- Creating scalable cloud architecture using **Amazon AWS, Google Cloud Platform, Digital Ocean, Heroku, Vercel**
 - Project Management & Scrum Team Master and CD/CI using **Github Actions, Bitbucket Pipeline & Gitlab CI**
 
 **Languages and Tools:**
