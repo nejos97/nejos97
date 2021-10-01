@@ -41,6 +41,8 @@ Talk to me about
 
 - Twitter - [@nejos97](https://twitter.com/nejos97)
 - LinkedIn - [Jonathan NENBA](https://www.linkedin.com/in/jnenba/)
+- Website - [https://nenbajonathan.com](https://nenbajoanthan.com/)
+
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nejos97&show_icons=true)   
 
