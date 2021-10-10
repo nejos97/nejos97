@@ -14,7 +14,7 @@ I love technology and best practices. Github is my favourite place, it keeps me 
 
 ## 👯 Communities
 
-- Speaking about JAMStack, Android Development and Mobile Payment at [GDG Ndere - Cameroon](https://devfest.gdgdouala.com/)
+- Speaking about JAMStack, Android Development, Cryptocurrency, Web at [GDG Ndere - Cameroon](https://devfest.gdgdouala.com/)
 
 ## ⚡ Technologies
 
