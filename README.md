@@ -6,7 +6,7 @@
 
 # Jonathan NENBA 😃
 
-Independent Sr. Software Consultant | Co-Founder @ [Mozacoin](https://mozacoin.com) | Embracing Technology | Entrepreneer
+Independent Digital Consultant | Software Developer | Co-Founder @ [Mozacoin](https://mozacoin.com) | Embracing Technology
 
 ## 🧐 About
 
@@ -21,7 +21,7 @@ I love technology and best practices. Github is my favourite place, it keeps me 
 Talk to me about
 
 - Front-end development using **React, NextJS, Gatsby, Angular**
-- Backend development using **C#, Python, NodeJS(Express, NestJS)**
+- Backend development using **C#, Python(Django REST, FastAPI, Flask), NodeJS(Express, NestJS), Go(Gin, Gorm...)**
 - Architectural design for **Relational Database Management Systems** as well as for NoSQL database systems like **MongoDB, DynamoDB**
 - Robust full-stack system design implementation
 - Creating scalable cloud architecture using **Amazon AWS, Google Cloud Platform, Digital Ocean, Heroku, Vercel**
