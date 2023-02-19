@@ -6,7 +6,7 @@
 
 # Jonathan NENBA 😃
 
-Independent Digital Consultant | Software Developer | Co-Founder @ [Mozacoin](https://mozacoin.com) | Embracing Technology
+Independent Software Developer | Co-Founder @ [Mozacoin](https://mozacoin.com) | Embracing Technology & Love Software Architecture
 
 ## 🧐 About
 
