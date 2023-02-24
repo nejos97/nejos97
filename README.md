@@ -37,7 +37,7 @@ Talk to me about
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/google/google.png"></code>
 
-**The obviousstuff**
+**The obvious stuff**
 
 ![CSS3](https://img.shields.io/badge/css3-%23EEE.svg?style=for-the-badge&logo=css3&logoColor=1572B6)
 ![Express](https://img.shields.io/badge/Express-%23EEE.svg?style=for-the-badge&logo=express&logoColor=000)
