@@ -6,11 +6,11 @@
 
 # Jonathan NENBA 😃
 
-Independent Software Developer | Co-Founder @ [Mozacoin](https://mozacoin.com) | Embracing Technology & Love Software Architecture
+Software Developer | Co-Founder @ [Mozacoin](https://mozacoin.com) | Embracing Technology & Software Architecture
 
 ## 🧐 About
 
-I love technology and best practices. Github is my favourite place, it keeps me up to date with what's going on in the world.
+I love technology and best practices. Github is my favorite place, it keeps me up to date with what's going on in the world.
 
 ## 👯 Communities
 
