@@ -6,7 +6,7 @@
 
 # Jonathan NENBA 😃
 
-Software Developer | Co-Founder @ [Mozacoin](https://mozacoin.com) | Embracing Technology & Software Architecture
+Software Developer | Embracing Technology & Software Architecture
 
 ## 🧐 About
 
