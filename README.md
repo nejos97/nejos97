@@ -4,7 +4,7 @@
   </a>
 </p>
 
-# Jonathan NENBA 😃
+# Jonathan NENBA
 
 Software Developer | Embracing Technology & Software Architecture
 
