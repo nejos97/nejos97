@@ -14,7 +14,7 @@ I love technology and best practices. Github is my favorite place, it keeps me u
 
 ## 👯 Communities
 
-- Speaking about JAMStack, React Native, Microservices, Web at [GDG Ndere - Cameroon](https://gdg.community.dev/gdg-ndere/)
+- Speaking about JAMStack, React Native, Microservices, Web & Bitcoin at [GDG Ndere - Cameroon](https://gdg.community.dev/gdg-ndere/)
 
 ## ⚡ Technologies
 
