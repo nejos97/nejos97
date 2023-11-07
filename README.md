@@ -25,7 +25,7 @@ Talk to me about
 - Architectural design for **Relational Database Management Systems** as well as for NoSQL database systems like **MongoDB, DynamoDB**
 - Robust full-stack system design implementation
 - Creating scalable cloud architecture using **Amazon AWS, Google Cloud Platform, Digital Ocean, Heroku, Vercel**
-- Project Management & Scrum Team Master and CD/CI using **Github Actions, Bitbucket Pipeline & Gitlab CI**
+- Project Management & Scrum Team Master and CD/CI using **Jira, Github Actions, Bitbucket Pipeline & Gitlab CI**
 
 **Languages and Tools:**
 
