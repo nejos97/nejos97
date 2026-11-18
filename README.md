@@ -1,3 +1,3 @@
-**Software Developer [Go, Rust, JavaScript, and C#]**
+**Software Engineer**
 
-I’m currently building real-time components for microservice architectures, exploring decentralized finance, Bitcoin Protocol, and working with microcontrollers
+I’m currently building real-time components for microservice architectures, exploring DeFi and the Bitcoin protocol, and experimenting with microcontrollers and reverse engineering.
